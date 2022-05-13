@@ -1,2 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Legendspark098/box/main/box.lua"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1"))()
